@@ -5,9 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-base-domain/pom.xml" />
         <option value="$PROJECT_DIR$/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/stock-service/pom.xml" />
-        <option value="$PROJECT_DIR$/kafka-base-domain/pom.xml" />
       </list>
     </option>
   </component>
